@@ -15,3 +15,5 @@ By the end of this project, we are expected to be able to explain to anyone:
 -what is the difference between Git and Github
 -How to write helpful commit messages
 -Which files should and should not appear in your repo
+
+I'm not sure what to change in this readme but they told me to for task 3.
